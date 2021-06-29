@@ -83,7 +83,7 @@
 &lt;/li&gt;
 &lt;li class=&#34;quiz&#34;&gt;
 &lt;p&gt;召开项目开工会议（Kick-Off Meeting）的适当时机是什么时候？&lt;/p&gt;
-&lt;ul class=&#34;options options&#34;&gt;
+&lt;ul class=&#34;options&#34;&gt;
 &lt;li class=&#34;correct&#34;&gt;完成项目管理计划之后，但要在执行之前&lt;/li&gt;
 &lt;li&gt;在项目经理有正面消息要分享时&lt;/li&gt;
 &lt;li&gt;在签署项目章程之前&lt;/li&gt;
@@ -93,17 +93,18 @@
 &lt;p&gt;PMBOK 第六版 P86：“项目开工会议通常意味着规划阶段结束和执行阶段开始，旨在传达项目目标、获得团队对项目的承诺，以及阐明每个相关方的角色和职责”，另参考 PPT 上 kick-off meeting 的说明。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关于会议，下列哪种说法是不正确的 {.quiz}&lt;br /&gt;
-- 应该明确每个参会者的角色&lt;br /&gt;
- - 为了减少开会的次数，应当把各种类型的会议合并在一起开 {.correct}&lt;br /&gt;
-- 会前应准备和确定会议议程、目的、目标和期限&lt;br /&gt;
- - 会后要形成书面的会议纪要和行动方案&lt;/p&gt;
+&lt;li class=&#34;quiz&#34;&gt;
+&lt;p&gt;关于会议，下列哪种说法是不正确的&lt;/p&gt;
+&lt;ul class=&#34;options&#34;&gt;
+&lt;li&gt;应该明确每个参会者的角色&lt;/li&gt;
+&lt;li class=&#34;correct&#34;&gt;为了减少开会的次数，应当把各种类型的会议合并在一起开&lt;/li&gt;
+&lt;li&gt;会前应准备和确定会议议程、目的、目标和期限&lt;/li&gt;
+&lt;li&gt;会后要形成书面的会议纪要和行动方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;PMBOK 第六版 P80：“会议管理包括准备议程、确保邀请每个关键相关方群体的代表，以及准备和发送后续的会议纪要和行动计划 “，为了保证会议的效果，不要把各种类型的会议合并在一起开&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;&amp;gt; PMBOK第六版P80：“会议管理包括准备议程、确保邀请每个关键相关方群体的代表，以及准备和发送后续的会议纪要和行动计划“，为了保证会议的效果，不要把各种类型的会议合并在一起开
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&#34;63&#34;&gt;
 &lt;li class=&#34;quiz&#34;&gt;
 &lt;p&gt;下列哪个文件确定了项目的执行、监控和收尾方式？&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
